@@ -1,0 +1,220 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Vegetable",
+      "name": "Calabrese Broccoli",
+      "images": "/product_images/broccoli.png",
+      "oldprice": 20,
+      "newprice": 13
+    },
+    {
+      "id": 2,
+      "category": "Fresh",
+      "name": "Fresh Banana Fruites",
+      "images": "/product_images/banana.png",
+      "oldprice": 20,
+      "newprice": 14
+    },
+    {
+      "id": 3,
+      "category": "Millets",
+      "name": "White Nuts",
+      "images": "/product_images/white nuts.png",
+      "oldprice": 20,
+      "newprice": 15
+    },
+    {
+      "id": 4,
+      "category": "Vegetable",
+      "name": "Vegan Red Tomato",
+      "images": "/product_images/tomato.png",
+      "oldprice": 20,
+      "newprice": 17
+    },
+    {
+      "id": 5,
+      "category": "Health",
+      "name": "Mung Bean",
+      "images": "/product_images/bean.png",
+      "oldprice": 20,
+      "newprice": 11
+    },
+    {
+      "id": 6,
+      "category": "Nuts",
+      "name": "Brown Hazelnut",
+      "images": "/product_images/hazelnut.png",
+      "oldprice": 20,
+      "newprice": 12
+    },
+    {
+      "id": 7,
+      "category": "Fresh",
+      "name": "Eggs",
+      "images": "/product_images/eggs.png",
+      "oldprice": 20,
+      "newprice": 17
+    },
+    {
+      "id": 8,
+      "category": "Fresh",
+      "name": "Zelco Suji Elaichi Rusk",
+      "images": "/product_images/rusk.png",
+      "oldprice": 20,
+      "newprice": 15
+    },
+    {
+      "id": 9,
+      "category": "Health",
+      "name": "Mung Bean",
+      "images": "/product_images/mung_bean2.png",
+      "oldprice": 20,
+      "newprice": 11
+    },
+    {
+      "id": 10,
+      "category": "Nuts",
+      "name": "White Hazelnut",
+      "images": "/product_images/White Hazelnut.png",
+      "oldprice": 20,
+      "newprice": 12
+    },
+    {
+      "id": 11,
+      "category": "Fresh",
+      "name": "Fresh Corn",
+      "images": "/product_images/Fresh Corn.png",
+      "oldprice": 20,
+      "newprice": 17
+    },
+    {
+      "id": 12,
+      "category": "Fresh",
+      "name": "Organic Almonds",
+      "images": "/product_images/Organic Almonds.png",
+      "oldprice": 20,
+      "newprice": 15
+    }
+  ],
+  "blog-singles": [
+    {
+      "id": 1,
+      "farmer": "Rachi Card",
+      "header": "The Benefits of Vitamin D & How to Get It",
+      "image": "/prd1.png"
+    },
+    {
+      "id": 2,
+      "farmer": "Rachi Card",
+      "header": "Our Favorite Summertime Tomato",
+      "image": "/prd2.png"
+    },
+    {
+      "id": 3,
+      "farmer": "Rachi Card",
+      "header": "Benefits of Vitamin C & How to Get It",
+      "image": "/prd3.png"
+    },
+    {
+      "id": 4,
+      "farmer": "Rachi Card",
+      "header": "Research More Organic Foods",
+      "image": "/prd4.png"
+    },
+    {
+      "id": 5,
+      "farmer": "Rachi Card",
+      "header": "Every Fresh Fruites",
+      "image": "/prd5.png"
+    },
+    {
+      "id": 6,
+      "farmer": "Rachi Card",
+      "header": "Don’t Use Plastic Product! it’s Kill Nature",
+      "image": " /prd6.png"
+    }
+  ],
+  "portfolio-singles": [
+    {
+      "id": 1,
+      "name": "Green & Tasty Lemon",
+      "image": "/lemon.png",
+      "type": "Fruits",
+      "single_img": "/lemon_single.jpg",
+      "info_pic": "https://chdairiesdiary.files.wordpress.com/2020/09/smart-agriculture.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Organic Carrot",
+      "image": "/carrot.png",
+      "type": "Farmer",
+      "single_img": "/carror_single.jpg",
+      "info_pic": "https://businessman.ru/static/img/a/45935/400005/67509.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Organic Betel Leaf",
+      "image": "/leaf.png",
+      "type": "Leaf",
+      "single_img": "/leaf_single.jpg",
+      "info_pic": "https://фондмагадан.рф/wp-content/uploads/2022/07/gospodderzhka-2048x1536.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Natural Tommato",
+      "image": "/tomoto.png",
+      "type": "Fruits",
+      "single_img": "/tomoto_single.jpg",
+      "info_pic": "http://www.adm-tavda.ru/userfiles/%D0%A1%D0%B5%D0%BB%D1%8C%D1%85%D0%BE%D0%B7.JPG"
+    },
+    {
+      "id": 5,
+      "name": "Black Raspberry",
+      "image": "/raspberry.png",
+      "type": "Farmer",
+      "single_img": "/raspberry_portfolio.png",
+      "info_pic": "https://i.pinimg.com/originals/9d/95/6e/9d956e956a09c68aa5d36f0cef360020.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Honey Orange",
+      "image": "/orange.png",
+      "type": "Farmer",
+      "single_img": "/orange_single.jpg",
+      "info_pic": "https://i.ebayimg.com/images/g/EyQAAOSwgsxad7fC/s-l500.jpg"
+    }
+  ],
+  "team": [
+    {
+      "name": "Giovani Bacardo",
+      "profession": "Farmer",
+      "image": "/giovani.jpg"
+    },
+    {
+      "name": "Marianne Loreno",
+      "profession": "Designer",
+      "image": "/marianne.jpg"
+    },
+    {
+      "name": "Riga Pelore",
+      "profession": "Financiar",
+      "image": "/riga.jpg"
+    },
+    {
+      "name": "Keria Knightley",
+      "profession": "Farmer",
+      "image": "/keira.jpg"
+    },
+    {
+      "name": "Scott Lawrence",
+      "profession": "Designer",
+      "image": "/scott.jpg"
+    },
+    {
+      "name": "Karen Allen",
+      "profession": "Farmer",
+      "image": "/karen.jpg"
+    }
+  ]
+}

@@ -1,0 +1,632 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Vegetable",
+      "name": "Calabrese Broccoli",
+      "images": "/product_images/broccoli.png",
+      "oldprice": 20.0,
+      "newprice": 13,
+      "calories": 33.7,
+      "text": "Broccoli is a green, leafy vegetable that is packed with vitamins, minerals, and antioxidants. It is known for its nutritional value and is considered to be one of the healthiest vegetables. Broccoli can be boiled, steamed, stir-fried, or roasted and is a versatile ingredient that can be used in a variety of dishes.",
+      "description_text": "Broccoli is a nutritious vegetable that belongs to the cruciferous family. It has dark green, tightly packed flower buds and stalks that are rich in fiber, vitamins, and minerals. Broccoli is known for its health benefits, including boosting the immune system and reducing the risk of certain cancers.",
+      "additional_text": "Broccoli can be eaten raw or cooked and is a versatile ingredient in many dishes, including stir-fries, salads, and soups. It is low in calories and high in antioxidants, making it an excellent addition to any healthy diet. Broccoli also contains compounds that may help improve bone health and prevent heart disease."
+    },
+    {
+      "id": 2,
+      "category": "Fresh",
+      "name": "Fresh Banana Fruites",
+      "images": "/product_images/banana.png",
+      "oldprice": 20.0,
+      "newprice": 14,
+      "calories": 88.7,
+      "text": "Bananas are a popular fruit that are high in nutrients, particularly potassium and vitamin C. They are also a good source of fiber and are low in calories. Bananas are versatile and can be eaten raw or used in baking, smoothies, and other dishes.",
+      "description_text": "Fresh bananas are a nutritious and delicious fruit with a soft texture and sweet flavor. They are high in fiber, potassium, and vitamin C, making them a great addition to a healthy diet. Bananas are easy to eat on the go and can be used in many recipes, such as smoothies, baked goods, and salads.",
+      "additional_text": "Fresh bananas are a popular fruit known for their sweet flavor and soft texture. They are a good source of fiber, vitamins, and minerals such as potassium, magnesium, and vitamin C. Bananas are versatile and can be eaten on their own, added to smoothies or baked goods, and are a great snack option."
+    },
+    {
+      "id": 3,
+      "category": "Millets",
+      "name": "White Nuts",
+      "images": "/product_images/white nuts.png",
+      "oldprice": 20.0,
+      "newprice": 15,
+      "calories": 606.8,
+      "text": "Nuts are a type of food that are high in protein, healthy fats, fiber, and a variety of vitamins and minerals. They come in many varieties, including almonds, walnuts, cashews, and peanuts. Nuts are often eaten as a snack or used in cooking, baking, and salads.",
+      "description_text": "Nuts are a type of fruit with a hard outer shell that contains a seed inside. They are a rich source of healthy fats, protein, fiber, vitamins, and minerals. Common types of nuts include almonds, walnuts, pecans, cashews, and peanuts. Nuts can be eaten on their own or added to many recipes for added flavor and nutrition.",
+      "additional_text": "Nuts are also known for their numerous health benefits. They are associated with reducing the risk of heart disease, type 2 diabetes, and some types of cancer. Nuts may also help with weight management, as they can help promote feelings of fullness and reduce appetite. Additionally, nuts are a convenient and delicious snack option that can be enjoyed on the go."
+    },
+    {
+      "id": 4,
+      "category": "Vegetable",
+      "name": "Vegan Red Tomato",
+      "images": "/product_images/tomato.png",
+      "oldprice": 20.0,
+      "newprice": 17,
+      "calories": 16,
+      "text": "Tomatoes are a popular fruit that are high in vitamin C and other nutrients. They are a staple in many vegan diets and can be eaten raw, cooked, or used in sauces and salads. Red tomatoes are the most common variety and are a great source of antioxidants and fiber.",
+      "description_text": "Red tomatoes are a popular fruit that is widely used in cooking. They have a juicy flesh and a bright red color when ripe. Tomatoes are rich in vitamins, minerals, and antioxidants that promote good health. They can be eaten raw or cooked and are a versatile ingredient in many recipes.",
+      "additional_text": "Red tomatoes are a common and versatile fruit that are used in a wide variety of dishes. They are low in calories and high in vitamins, minerals, and antioxidants. Tomatoes are known for their potential health benefits, including reducing the risk of heart disease, cancer, and inflammation. They are also a great source of hydration."
+    },
+    {
+      "id": 5,
+      "category": "Health",
+      "name": "Mung Bean",
+      "images": "/product_images/bean.png",
+      "oldprice": 20.0,
+      "newprice": 11,
+      "calories": 347,
+      "text": "Mung beans are a type of legume that are commonly used in Asian cuisine. They are high in protein, fiber, and a variety of vitamins and minerals, and are a popular ingredient in vegetarian and vegan diets. Mung beans can be sprouted, cooked, or ground into flour and used in a variety of dishes.",
+      "description_text": "Mung beans, also known as green gram, are a type of legume that is native to Asia. They are small, green, and oval-shaped with a mild flavor and a slightly crunchy texture. Mung beans are a good source of plant-based protein, fiber, and antioxidants, and are often used in soups, salads, and curries.",
+      "additional_text": "Mung beans are a popular ingredient in many traditional Asian dishes, such as dal and sprouted bean salads. They are a low-glycemic index food, meaning they are digested slowly and can help regulate blood sugar levels. Mung beans are also a good source of iron and folate, making them a great addition to a plant-based diet."
+    },
+    {
+      "id": 6,
+      "category": "Nuts",
+      "name": "Brown Hazelnut",
+      "images": "/product_images/hazelnut.png",
+      "oldprice": 20.0,
+      "newprice": 12,
+      "calories": 628.3,
+      "text": "Brown hazelnuts are a type of nut that are known for their sweet, nutty flavor and crunchy texture. They are high in healthy fats, protein, fiber, and a variety of vitamins and minerals, including vitamin E and magnesium. Brown hazelnuts are often used in baking, chocolate making, and as a topping for salads and oatmeal.",
+      "description_text": "Hazelnuts, also known as filberts, are a type of nut that is native to Europe and Asia. They have a rich, nutty flavor and are often used in baking and confectionery. Hazelnuts are a good source of healthy fats, fiber, and vitamins, and may have benefits for heart health and cognitive function.",
+      "additional_text": "Hazelnuts are a versatile ingredient that can be used in many different recipes. They are a common ingredient in spreads like Nutella and can also be used in cakes, cookies, and other baked goods. Hazelnuts are also a good source of protein and are a popular snack food. Additionally, they are gluten-free and can be enjoyed by people with gluten intolerance or celiac disease."
+    },
+    {
+      "id": 7,
+      "category": "Fresh",
+      "name": "Eggs",
+      "images": "/product_images/eggs.png",
+      "oldprice": 20.0,
+      "newprice": 17,
+      "calories": 155.1,
+      "text": "Eggs are a nutritious food that are rich in protein, vitamins, and minerals. They can be cooked in many different ways, including boiled, fried, scrambled, and poached. Eggs are a versatile ingredient that can be used in baking, as a protein source in salads and sandwiches, and in many other dishes.",
+      "description_text": "Eggs are a common food that come in a variety of sizes and colors. They are a rich source of protein, vitamins, and minerals, and can be cooked in a variety of ways. Eggs can be a healthy addition to a balanced diet, but should be consumed in moderation as they are high in cholesterol.",
+      "additional_text": "Eggs are a highly nutritious food that are a good source of protein, vitamins, and minerals. They can be cooked in many different ways, such as boiled, fried, or scrambled. Eggs are also affordable and widely available, making them a popular food around the world. However, they may not be suitable for individuals with certain dietary restrictions or allergies."
+    },
+    {
+      "id": 8,
+      "category": "Fresh",
+      "name": "Zelco Suji Elaichi Rusk",
+      "images": "/product_images/rusk.png",
+      "oldprice": 20.0,
+      "newprice": 15,
+      "calories": 478,
+      "text": "Zelco Suji Elaichi Rusk is a type of Indian biscuit that is made from a blend of semolina, cardamom, sugar, and ghee. It is a crunchy and crispy snack that is often enjoyed with tea or coffee. Zelco Suji Elaichi Rusk is popular throughout India and is a common snack food in many households.",
+      "description_text": "Zelco Suji Elaichi Rusk is a type of Indian biscuit that is made from semolina flour and flavored with cardamom. It has a crisp texture and is often served with tea or coffee. Zelco Suji Elaichi Rusk is a popular snack in India and other parts of South Asia.",
+      "additional_text": "Zelco Suji Elaichi Rusk is a favorite breakfast item in many Indian households. It is often consumed with milk or tea and is a good source of carbohydrates and energy. The cardamom flavor adds a unique and refreshing taste to the biscuit."
+    },
+    {
+      "id": 9,
+      "category": "Vegetable",
+      "name": "Courgette",
+      "images": "/product_images/courgette.png",
+      "oldprice": 20.0,
+      "newprice": 11,
+      "calories": 478,
+      "text": "Courgette, also known as zucchini, is a type of summer squash that is popular in Mediterranean cuisine. It has a cylindrical shape and a dark green skin, with a white flesh inside that is firm and mildly sweet. Courgettes are low in calories and high in fiber, vitamin C, and potassium. They can be eaten raw, cooked, or grilled, and are often used in salads, stews, and vegetable dishes. Courgette flowers are also edible and are a delicacy in some cuisines.",
+      "description_text": "Courgettes, also known as zucchini, are a type of squash that have a cylindrical shape and a smooth, dark green skin. They have a mild, slightly sweet flavor and are low in calories. Courgettes can be cooked in a variety of ways, such as grilling, sautéing, or roasting, and are a versatile ingredient in many recipes.",
+      "additional_text": "Courgettes, also known as zucchini, are a type of summer squash that are low in calories and high in fiber. They are a good source of vitamin C, potassium, and antioxidants, and are often used in salads, soups, and stir-fries. Courgettes are also a popular ingredient in vegetarian and vegan recipes."
+    },
+    {
+      "id": 10,
+      "category": "Nuts",
+      "name": "White Hazelnut",
+      "images": "/product_images/White Hazelnut.png",
+      "oldprice": 20.0,
+      "newprice": 12,
+      "calories": 585,
+      "text": "Hazelnuts are a type of nut that are native to Europe and Asia. They have a sweet and nutty flavor and are a rich source of healthy fats, protein, fiber, and various vitamins and minerals, including vitamin E and magnesium. Hazelnuts are often used in baking, chocolate making, and as a topping for salads and oatmeal.",
+      "description_text": "Hazelnuts are small, round nuts that have a hard, brown shell and a sweet, nutty flavor. They are a good source of protein, healthy fats, fiber, and vitamins, and are often used in baking and confectionery. Hazelnuts are also a popular snack food and are used to make nut butter.",
+      "additional_text": "Hazelnuts are a rich source of antioxidants, which help protect the body against oxidative stress and inflammation. They also contain minerals such as iron, magnesium, and phosphorus, which are important for bone health and energy production. Hazelnuts are a delicious and nutritious addition to many meals and snacks."
+    },
+    {
+      "id": 11,
+      "category": "Fresh",
+      "name": "Fresh Corn",
+      "images": "/product_images/Fresh Corn.png",
+      "oldprice": 20.0,
+      "newprice": 17,
+      "calories": 88,
+      "text": "Fresh corn, also known as sweet corn, is a type of maize that is harvested before the kernels have fully matured. It has a sweet and juicy flavor and can be eaten raw or cooked. Fresh corn is a good source of fiber, vitamins, and antioxidants, and is often used in salads, soups, and as a side dish.",
+      "description_text": "Fresh corn, also known as sweet corn, is a type of maize that is harvested while it is still in its natural, unripe state. It has a sweet, slightly crunchy texture and is often used in salads, soups, and as a side dish. Fresh corn is a good source of fiber, vitamins, and minerals.",
+      "additional_text": "Fresh corn is a rich source of antioxidants, which help protect the body against oxidative stress and inflammation. It also contains lutein and zeaxanthin, which are important for eye health. Fresh corn can be boiled, grilled, or roasted and is a delicious addition to many recipes, such as tacos, salads, and chowders."
+    },
+    {
+      "id": 12,
+      "category": "Fresh",
+      "name": "Organic Almonds",
+      "images": "/product_images/Organic Almonds.png",
+      "oldprice": 20.0,
+      "newprice": 15,
+      "calories": 164,
+      "text": "Organic almonds are a type of nut that are grown without the use of synthetic pesticides, fertilizers, or other harmful chemicals. They are high in healthy fats, protein, fiber, and a variety of vitamins and minerals, including vitamin E and magnesium. Organic almonds are often used in baking, snacking, and as a topping for salads and yogurt.",
+      "description_text": "Organic almonds are a type of nut that is grown without the use of synthetic pesticides or fertilizers. They have a hard, brown shell and a sweet, nutty flavor. Organic almonds are a good source of protein, fiber, healthy fats, and vitamin E, and are often used in cooking, baking, and as a snack.",
+      "additional_text": "Organic almonds are grown without the use of synthetic pesticides and fertilizers, making them a healthier and more environmentally friendly option. They are a good source of protein, healthy fats, fiber, and vitamin E. Organic almonds are often used in baking, cooking, and as a snack."
+    },
+    {
+      "id": 13,
+      "category": "Fresh",
+      "name": "Mushroom",
+      "images": "",
+      "oldprice": 20.0,
+      "newprice": 10,
+      "calories": 22.2,
+      "text": "Mushrooms are fungi with diverse species found worldwide. They come in various shapes, colors, and sizes. Some are edible and prized for their nutritional value and unique flavors, while others are toxic. Mushrooms play a vital role in ecosystems as decomposers. They have been used in traditional medicine and culinary delights for centuries.",
+      "description_text": "Mushrooms are fascinating fungi that thrive in diverse habitats worldwide. They exhibit a wide array of shapes, colors, and sizes, with some being edible delicacies and others toxic. As essential decomposers, mushrooms play a crucial role in ecosystem balance. For centuries, they have been valued for their culinary and medicinal uses, making them a captivating subject of study.",
+      "additional_text": "Mushrooms possess a remarkable ability to absorb and concentrate environmental substances, making them potential bioindicators for pollution. Some species produce bioactive compounds with medicinal properties, offering promising prospects for pharmaceutical research. Additionally, mushrooms hold cultural significance in various societies, often associated with mystery, folklore, and culinary delights."
+    },
+    {
+      "id": 14,
+      "category": "Vegetable",
+      "name": "Garlic",
+      "images": "",
+      "oldprice": 20.0,
+      "newprice": 8,
+      "calories": 111,
+      "text": "Garlic is a pungent and flavorful bulb widely used in cuisines globally. With a strong aroma and taste, it enhances dishes from savory to sweet. Besides its culinary appeal, garlic boasts potential health benefits due to its antimicrobial and antioxidant properties. It has been valued for centuries in traditional medicine for various ailments.",
+      "description_text": "Garlic is a versatile herb with a distinctive taste and aroma used in culinary creations worldwide. Its bulb contains multiple cloves, each packed with powerful antioxidants and antimicrobial properties. Beyond its culinary charm, garlic has been renowned for its potential health benefits and traditional medicinal uses for ages.",
+      "additional_text": "In addition to its culinary and medicinal attributes, garlic has historical significance, dating back to ancient civilizations like Egypt and Greece. It was used to ward off evil spirits, boost energy, and even as currency. Today, garlic's popularity endures as a staple in countless dishes, promoting both flavor and wellness."
+    },
+    {
+      "id": 15,
+      "category": "Meat",
+      "name": "Chicken",
+      "images": "",
+      "oldprice": 20.0,
+      "newprice": 15,
+      "calories": 239,
+      "text": "Chicken is a popular poultry meat consumed worldwide. It offers a lean and versatile protein source, making it a staple in various cuisines. From succulent roast chicken to spicy curries and comforting soups, its mild flavor pairs well with diverse ingredients. Chicken is a nutritious and delicious choice for many dishes.",
+      "description_text": "Chicken is a widely consumed poultry meat loved for its tender texture and mild taste. Its versatility makes it a culinary favorite, featuring in an array of dishes from BBQ to stir-fries. As a rich source of protein, chicken provides essential nutrients, making it a popular and nutritious choice globally.",
+      "additional_text": "Beyond its culinary appeal, chicken has a significant economic and cultural impact. It supports a massive industry, providing employment and food security for millions worldwide. Moreover, chicken dishes are deeply embedded in cultural traditions, from fried chicken in the United States to chicken curry in South Asia, showcasing its universal popularity."
+    },
+    {
+      "id": 16,
+      "category": "Grains",
+      "name": "Flour",
+      "images": "",
+      "oldprice": 20.0,
+      "newprice": 13,
+      "calories": 364,
+      "text": "Flour is a fine, powdery substance obtained by grinding grains, legumes, or nuts. It is a fundamental ingredient in baking, creating a wide range of baked goods like bread, cakes, and pastries. With its gluten content, flour is essential for achieving the desired structure and texture in many culinary delights.",
+      "description_text": "Flour is a finely ground powder derived from various grains, such as wheat, corn, or rice. It serves as a crucial ingredient in baking and cooking, providing structure and texture to a myriad of dishes. From fluffy bread to delicate pastries, flour's versatility makes it an indispensable element in the culinary world.",
+      "additional_text": "In addition to its culinary applications, flour has practical uses beyond the kitchen. It is used as a thickening agent in sauces and gravies, as well as a key component in making pasta and noodles. Moreover, flour plays a role in crafting paper, cosmetics, and even as a polishing agent in certain industries."
+    },
+    {
+      "id": 17,
+      "category": "Fresh",
+      "name": "Blueberry ",
+      "images": "",
+      "oldprice": 20.0,
+      "newprice": 6,
+      "calories": 80,
+      "text": "Blueberries are small, juicy, and vibrant berries cherished for their delightful flavor and nutritional benefits. Packed with antioxidants, vitamins, and fiber, they promote overall health. Whether enjoyed fresh, in smoothies, or baked into muffins and pies, blueberries add a burst of sweetness and color to a variety of dishes.",
+      "description_text": "Blueberries are small, round, and deeply-colored berries cherished for their sweet and tangy taste. They are a rich source of antioxidants and essential nutrients, supporting heart health and cognitive function. Whether incorporated into salads, yogurt, or desserts, blueberries offer a burst of deliciousness and a nutritious addition to any meal.",
+      "additional_text": "Beyond their nutritional value, blueberries have garnered attention for their potential health benefits. Studies suggest that their antioxidants may help reduce inflammation and lower the risk of chronic diseases. These versatile berries can be frozen for prolonged use and are celebrated in various cuisines and diets worldwide."
+    },
+    {
+      "id": 18,
+      "category": "Fresh",
+      "name": "Olive",
+      "images": "",
+      "oldprice": 20.0,
+      "newprice": 11,
+      "calories": 115,
+      "text": "Olive is a small, oval-shaped fruit that grows on olive trees. It is a staple in Mediterranean cuisine, providing rich, flavorful oil and table olives. High in monounsaturated fats and antioxidants, olives offer numerous health benefits. They add a distinctive taste to salads, pasta, and other dishes, making them a culinary treasure.",
+      "description_text": "Olives are the fruit of olive trees, commonly used to produce olive oil and table olives. With a distinctive taste and various colors, olives feature prominently in Mediterranean cuisine. Rich in healthy fats and antioxidants, they contribute to heart health and culinary delights, enriching salads, pizzas, and Mediterranean dishes.",
+      "additional_text": "Olive cultivation dates back thousands of years, intertwining with ancient civilizations like the Greeks and Romans. The olive tree holds cultural significance, symbolizing peace and wisdom. Olive oil, a cornerstone of the Mediterranean diet, is prized for its health benefits and versatility in cooking, skincare, and traditional remedies."
+    },
+    {
+      "id": 19,
+      "category": "Health",
+      "name": "Holland Cheese",
+      "images": "",
+      "oldprice": 25.0,
+      "newprice": 22,
+      "calories": 142,
+      "text": "Olive is a small, oval-shaped fruit that grows on olive trees. It is a staple in Mediterranean cuisine, providing rich, flavorful oil and table olives. High in monounsaturated fats and antioxidants, olives offer numerous health benefits. They add a distinctive taste to salads, pasta, and other dishes, making them a culinary treasure.",
+      "description_text": "Olives are the fruit of olive trees, commonly used to produce olive oil and table olives. With a distinctive taste and various colors, olives feature prominently in Mediterranean cuisine. Rich in healthy fats and antioxidants, they contribute to heart health and culinary delights, enriching salads, pizzas, and Mediterranean dishes.",
+      "additional_text": "Olive cultivation dates back thousands of years, intertwining with ancient civilizations like the Greeks and Romans. The olive tree holds cultural significance, symbolizing peace and wisdom. Olive oil, a cornerstone of the Mediterranean diet, is prized for its health benefits and versatility in cooking, skincare, and traditional remedies."
+    },
+    {
+      "id": 20,
+      "category": "Health",
+      "name": "Mozzarella Cheese",
+      "images": "",
+      "oldprice": 30.0,
+      "newprice": 25,
+      "calories": 280.1,
+      "text": "Olive is a small, oval-shaped fruit that grows on olive trees. It is a staple in Mediterranean cuisine, providing rich, flavorful oil and table olives. High in monounsaturated fats and antioxidants, olives offer numerous health benefits. They add a distinctive taste to salads, pasta, and other dishes, making them a culinary treasure.",
+      "description_text": "Olives are the fruit of olive trees, commonly used to produce olive oil and table olives. With a distinctive taste and various colors, olives feature prominently in Mediterranean cuisine. Rich in healthy fats and antioxidants, they contribute to heart health and culinary delights, enriching salads, pizzas, and Mediterranean dishes.",
+      "additional_text": "Olive cultivation dates back thousands of years, intertwining with ancient civilizations like the Greeks and Romans. The olive tree holds cultural significance, symbolizing peace and wisdom. Olive oil, a cornerstone of the Mediterranean diet, is prized for its health benefits and versatility in cooking, skincare, and traditional remedies."
+    },
+    {
+      "id": 21,
+      "category": "Meat",
+      "name": "Cow Meat",
+      "images": "",
+      "oldprice": 25.0,
+      "newprice": 22,
+      "calories": 143.4,
+      "text": "Cow meat, commonly known as beef, is a popular red meat consumed globally. It offers a rich source of protein, essential nutrients, and vitamins like B12 and iron. With various cuts and cooking methods, beef is a versatile ingredient in diverse cuisines, from tender steaks to savory stews.",
+      "description_text": "Cow meat, commonly known as beef, is derived from cattle and is a prevalent source of protein in many diets. Its tender texture and savory flavor make it a favorite in dishes worldwide, ranging from juicy burgers and succulent roasts to flavorful stir-fries and traditional stews.",
+      "additional_text": "Beef is a significant part of culinary heritage in numerous cultures, celebrated in iconic dishes like steak in Argentina, barbecue in the United States, and curry in India. With its diverse cuts, beef caters to a wide range of cooking preferences, making it a beloved and versatile meat choice for countless recipes."
+    },
+    {
+      "id": 22,
+      "category": "Grains",
+      "name": "Rice",
+      "images": "",
+      "oldprice": 20.0,
+      "newprice": 14,
+      "calories": 130,
+      "text": "Rice is a staple food that sustains billions of people worldwide. It is a versatile grain cultivated in various varieties, such as long-grain, short-grain, and basmati. With its neutral taste and fluffy texture when cooked, rice complements a myriad of dishes, from Asian stir-fries to Latin American rice and beans.",
+      "description_text": "Rice is a fundamental cereal grain central to global diets, serving as a primary food source for many cultures. Available in diverse types, including white, brown, and jasmine, rice offers a blank canvas for flavor incorporation. Its versatility and nutritional value make it an indispensable part of cuisines across the world.",
+      "additional_text": "Rice has a deep-rooted cultural significance in many societies, featuring prominently in religious ceremonies, festivals, and traditional rituals. As a dietary staple, it provides essential carbohydrates and energy, supporting livelihoods for millions of farmers worldwide. The cultivation and consumption of rice are intertwined with history, customs, and a shared appreciation for this humble grain."
+    },
+    {
+      "id": 23,
+      "category": "Grains",
+      "name": "Vermicelli",
+      "images": "",
+      "oldprice": 11.0,
+      "newprice": 9,
+      "calories": 330.5,
+      "text": "Vermicelli is a type of thin pasta, often made from wheat or rice flour. Its name, meaning 'little worms' in Italian, reflects its slender, worm-like appearance. Vermicelli is a popular ingredient in various cuisines, used in dishes like soups, salads, stir-fries, and sweet desserts, offering versatility and delectable texture.",
+      "description_text": "Vermicelli is a delicate and thin pasta commonly made from wheat or rice flour. Its fine, thread-like form adds a delightful texture to dishes. This versatile pasta is popular in Asian and Mediterranean cuisines, where it is used in soups, stir-fries, salads, and sweet desserts, catering to diverse culinary preferences.",
+      "additional_text": "Vermicelli's culinary journey extends across continents, with distinct regional variations and names like 'seviyan' in South Asia and 'fideo' in Mexico. In addition to savory preparations, it's a key ingredient in traditional desserts like kheer and falooda, showcasing its adaptability to create both sweet and savory delights in global kitchens."
+    },
+    {
+      "id": 24,
+      "category": "Grains",
+      "name": "Pasta",
+      "images": "",
+      "oldprice": 20.0,
+      "newprice": 16,
+      "calories": 131,
+      "text": "Pasta, a beloved staple in Italian cuisine, is a versatile food made from durum wheat semolina or other flours. With diverse shapes like spaghetti, penne, and fusilli, pasta offers endless creativity in cooking. Boiled to perfection, it pairs splendidly with various sauces, making it a comforting and timeless choice worldwide.",
+      "description_text": "Pasta is a quintessential Italian dish, loved for its simplicity and diverse shapes. Made from wheat flour, it offers a wide array of options like spaghetti, linguine, and macaroni. Boiled to al dente perfection, pasta complements an array of sauces, making it a delicious and satisfying meal for all palates.",
+      "additional_text": "Pasta's popularity extends far beyond Italy, becoming an integral part of global cuisines. From Japanese ramen to Chinese lo mein, each culture has adapted pasta into their culinary traditions, showcasing its universal appeal. Easy to prepare, affordable, and endlessly customizable, pasta remains a cherished comfort food enjoyed by people of all ages."
+    },
+    {
+      "id": 25,
+      "category": "Vegetable",
+      "name": "Red Onion",
+      "images": "",
+      "oldprice": 8.0,
+      "newprice": 4,
+      "calories": 32,
+      "text": "Red onions are a vibrant and pungent vegetable, prized for their distinctive color and flavor. With their mild sweetness and crisp texture, they are a versatile ingredient in salads, sandwiches, and various cooked dishes. Rich in antioxidants and nutrients, red onions add both taste and nutritional value to a wide range of recipes.",
+      "description_text": "Red onions are a colorful and flavorful variety of onions, with a purplish-red skin and white flesh tinged with red. They possess a milder taste compared to yellow or white onions, making them ideal for raw consumption in salads and pickles. In cooking, they add a beautiful hue and delightful taste to various dishes.",
+      "additional_text": "Red onions are not only a culinary delight but also offer health benefits. They contain quercetin, a powerful antioxidant that may help reduce inflammation and lower the risk of certain chronic diseases. Additionally, their vibrant color makes them an attractive garnish, enhancing the visual appeal of dishes and elevating the overall dining experience."
+    },
+    {
+      "id": 26,
+      "category": "Health",
+      "name": "Lime",
+      "images": "",
+      "oldprice": 5.0,
+      "newprice": 3,
+      "calories": 30.1,
+      "text": "Lime is a small, green citrus fruit cherished for its tangy and zesty flavor. It adds brightness to a myriad of dishes, from beverages like margaritas and lemonades to savory dishes like ceviche and Thai curries. With its high vitamin C content, lime is a refreshing and nutritious addition to various recipes.",
+      "description_text": "Lime is a citrus fruit with a vibrant green color and a refreshing, tangy taste. Its aromatic zest and juicy flesh lend delightful flavor to dishes, desserts, and beverages. High in vitamin C and antioxidants, lime offers health benefits and is a cherished ingredient in cuisines worldwide.",
+      "additional_text": "Beyond its culinary applications, lime has practical uses, too. Its acidic properties make it an excellent cleaning agent, removing stains and limescale. Lime juice is also utilized in cosmetics and personal care products for its natural refreshing scent and skin-brightening properties. This versatile fruit continues to captivate both chefs and non-culinary enthusiasts alike."
+    },
+    {
+      "id": 27,
+      "category": "Vegetable",
+      "name": "Green Pepper",
+      "images": "",
+      "oldprice": 10.0,
+      "newprice": 7,
+      "calories": 20.1,
+      "text": "Green peppers, also known as bell peppers, are crunchy and mildly sweet vegetables. With their vibrant green color, they add freshness and visual appeal to a variety of dishes. Rich in vitamins C and A, green peppers are a nutritious choice for salads, stir-fries, and stuffed recipes, enhancing both flavor and health benefits.",
+      "description_text": "Green peppers, or bell peppers, are crisp and mildly sweet vegetables with a distinct green color. Their versatility makes them a popular addition to salads, stir-fries, fajitas, and stuffed dishes. High in vitamins C and A, green peppers not only provide delightful flavor but also contribute to a healthy diet.",
+      "additional_text": "Green peppers are an essential ingredient in various cuisines worldwide. When allowed to ripen, they transform into other colorful varieties like red, yellow, and orange, each offering unique flavors. Packed with antioxidants, green peppers support immunity and digestive health, making them a nutritious and delightful addition to countless recipes."
+    },
+    {
+      "id": 28,
+      "category": "Fresh",
+      "name": "Pomegranate",
+      "images": "",
+      "oldprice": 20.0,
+      "newprice": 18,
+      "calories": 82.7,
+      "text": "Pomegranate is a unique and flavorful fruit with a distinctive ruby-red arils. Rich in antioxidants and vitamins, it promotes heart health and overall well-being. Pomegranate juice and arils add a burst of tangy sweetness to salads, desserts, and beverages, making it a cherished and nutritious fruit enjoyed worldwide.",
+      "description_text": "Pomegranate is a jewel-like fruit with juicy, ruby-red arils. Renowned for its rich antioxidant content, it offers numerous health benefits. Its sweet and tart flavor enhances both savory and sweet dishes, making it a sought-after ingredient in salads, marinades, desserts, and refreshing beverages.",
+      "additional_text": "Pomegranate's historical significance stretches back to ancient civilizations, symbolizing fertility, prosperity, and rebirth in various cultures. Its arils and juice are utilized in traditional medicines for their potential anti-inflammatory and anti-aging properties. This ancient fruit continues to captivate modern palates and is celebrated for its unique taste and healthful qualities."
+    },
+    {
+      "id": 29,
+      "category": "Health",
+      "name": "Rosemary",
+      "images": "",
+      "oldprice": 25.0,
+      "newprice": 21,
+      "calories": 3.9,
+      "text": "Rosemary is an aromatic herb with needle-like leaves and a distinct pine-like fragrance. It is a staple in Mediterranean cuisine, adding a savory flavor to roasted meats, vegetables, and soups. Beyond culinary use, rosemary is prized for its potential health benefits, and its essential oil is employed in aromatherapy and natural remedies.",
+      "description_text": "Pomegranate is a vibrant fruit with leathery skin, containing numerous juicy arils. Rich in antioxidants, vitamins, and minerals, it is renowned for its health benefits. Pomegranate's sweet-tart taste elevates salads, desserts, and drinks, making it a refreshing and nutritious choice enjoyed across cultures and cuisines.",
+      "additional_text": "Pomegranates have deep-rooted symbolism in various cultures, representing fertility, prosperity, and abundance. In addition to their culinary appeal, pomegranate arils are used as colorful garnishes, and their juice serves as a base for flavorful cocktails. The fruit's versatility, enticing taste, and potential health benefits make it a treasured ingredient worldwide."
+    },
+    {
+      "id": 30,
+      "category": "Health",
+      "name": "Green Onion",
+      "images": "",
+      "oldprice": 10.0,
+      "newprice": 3,
+      "calories": 32.3,
+      "text": "Green onions, also known as scallions or spring onions, are slender and mild-flavored vegetables. They feature dark green tops and white bulbs, offering a delightful contrast in color and taste. Versatile in cooking, they enhance dishes as garnishes or main ingredients, adding a fresh and subtle onion flavor to various recipes.",
+      "description_text": "Green onions, with their vibrant green stalks and mild onion taste, are young, immature onions harvested before they fully develop bulbs. These slender vegetables are a versatile addition to salads, stir-fries, soups, and omelets, imparting a delicate onion flavor and visual appeal to an array of dishes.",
+      "additional_text": "Green onions are a staple in Asian cuisines, where they are commonly used in dishes like noodle soups and dumplings. In addition to their culinary uses, green onions are easy to grow in home gardens, making them a popular choice for home cooks and gardeners alike. Their versatility and mild flavor make them a cherished ingredient worldwide."
+    },
+    {
+      "id": 31,
+      "category": "Health",
+      "name": "Lemon",
+      "images": "",
+      "oldprice": 12.0,
+      "newprice": 6,
+      "calories": 28.9,
+      "text": "Lemon is a bright yellow citrus fruit, known for its tangy and refreshing flavor. It is widely used in culinary and beverage preparations, enhancing dishes with its zesty taste. Rich in vitamin C, lemons offer numerous health benefits and are a beloved fruit enjoyed in various cuisines globally.",
+      "description_text": "Limon, the Turkish word for 'lemon,'refers to the bright yellow citrus fruit known for its tangy taste and aromatic zest. It is a versatile ingredient in Turkish cuisine, used to add a burst of flavor to savory dishes, desserts, and beverages, making it a cherished and essential fruit in Turkish culinary traditions.",
+      "additional_text": "In Turkey, limon holds cultural significance beyond its culinary use. It is used in traditional remedies for its potential health benefits, believed to aid digestion and boost the immune system. Moreover, limon's refreshing scent is utilized in aromatherapy and household cleaning products, showcasing its diverse applications in daily life."
+    },
+    {
+      "id": 32,
+      "category": "Fluid",
+      "name": "Red Wine Vinegar",
+      "images": "",
+      "oldprice": 20.0,
+      "newprice": 15,
+      "calories": 3,
+      "text": "Red wine vinegar is a tangy and flavorful vinegar made from fermented red wine. It adds depth to dressings, marinades, and sauces, enhancing dishes with its characteristic sharpness. With its distinctive taste and versatility, red wine vinegar is a popular choice in various cuisines, elevating both savory and sweet recipes.",
+      "description_text": "Red wine vinegar is a piquant vinegar produced through the fermentation of red wine. Its distinct flavor profile boasts a combination of acidity and fruitiness, adding a lively tang to dishes. From salads and pickles to sauces and glazes, red wine vinegar is a cherished ingredient in culinary creations worldwide.",
+      "additional_text": "In addition to its culinary uses, red wine vinegar has applications beyond the kitchen. Its acidic nature makes it a natural cleaning agent, effective in removing stains and odors. Moreover, it is used in natural remedies for its potential health benefits, such as aiding digestion and supporting blood sugar levels."
+    },
+    {
+      "id": 33,
+      "category": "Fluid",
+      "name": "Olive Oil",
+      "images": "",
+      "oldprice": 25.0,
+      "newprice": 23,
+      "calories": 884.1,
+      "text": "Olive oil is a widely used cooking oil obtained from olives through pressing. It comes in various grades, with extra virgin olive oil being the highest quality and most flavorful. With its heart-healthy monounsaturated fats, antioxidants, and distinctive taste, olive oil is a cherished staple in global cuisines.",
+      "description_text": "Olive oil is a prized culinary oil extracted from olives, the fruit of the olive tree. Known for its golden hue and fruity aroma, it is rich in monounsaturated fats, antioxidants, and vitamins. Its versatility extends to dressings, sautéing, roasting, and baking, making olive oil a cherished and essential ingredient worldwide.",
+      "additional_text": "Beyond its culinary significance, olive oil has been revered for centuries for its cultural, medicinal, and cosmetic uses. It holds symbolic importance in ancient traditions and religious ceremonies. With its potential health benefits, it is a key component in the Mediterranean diet, contributing to its reputation as a healthy and flavorful oil."
+    }
+  ],
+  "blog-singles": [
+    {
+      "id": 1,
+      "farmer": "Kristina Castle",
+      "header": "Everything You Need to Know About Organic",
+      "image": "/prd1.png",
+      "text": "Organic farming is the only way that you still can experience the real world."
+    },
+    {
+      "id": 2,
+      "farmer": "Alex Louis",
+      "header": "Our Favorite Summertime Tomato",
+      "image": "/prd2.png",
+      "text": "The world of nature has grown on the principles of health, ecology, and care."
+    },
+    {
+      "id": 3,
+      "farmer": "Christina John",
+      "header": "Health Benefits of Wild Carrots",
+      "image": "/prd3.png",
+      "text": "This is the place where you need to choose the natural product need."
+    },
+    {
+      "id": 4,
+      "farmer": "Kristina Castle",
+      "header": "Research More Organic Foods",
+      "image": "/prd4.png",
+      "text": "They believe our organick and we are successful in fulfilling their beliefs."
+    },
+    {
+      "id": 5,
+      "farmer": "Alex Louis",
+      "header": "Work Process Of Organic Farming",
+      "image": "/prd5.png",
+      "text": "All the fruits are grown without the use of any pesticides and other chemicals."
+    },
+    {
+      "id": 6,
+      "farmer": "Christina John",
+      "header": "Superfood You Should Eat Freshly",
+      "image": " /prd6.png",
+      "text": "No use of any chemicals you will end up with fresh and organic vegetables."
+    }
+  ],
+  "recipes-singles": [
+    {
+      "id": 1,
+      "name": "Peanut Butter Cookies",
+      "summary": "Peanut butter cookies are a classic dessert, and this recipe takes them to the next level with added oats, honey, and chunks of semisweet chocolate!",
+      "image": "/cake.jpg",
+      "type": "Dessert",
+      "info_pic": "/recone.jpg",
+      "preparation": "13 minutes",
+      "cooking": "12 minutes",
+      "services": "24 Pieces",
+      "ingredients": "1 ½ cups all purpose flour (unbleanched), ⅓ cuprolled oats, 1 tsp baking soda, ¼ tsp salt, 1 cup crunchy peanut butter, 1 cup brown sugar (packed), ½ cup unsalted butter, ¼ cup honey, 1 egg, 1 tsp vanilla extract, 1 oz semisweet chocolate (5 squares)",
+      "instruction": [
+        "Mix the flour, oats, baking soda, and salt in medium bowl. Using an electric mixer, beat the peanut butter, brown sugar, butter, honey, egg, and vanilla in large bowl until well blended. Stir the dry ingredients into the peanut butter mixture in 2 additions. Stir in the chopped chocolate. Cover and refrigerate for about 30 minutes until the dough is firm and no longer sticky. Preheat the oven to 350 degrees F. Butter two heavy large baking sheets. With hands, roll 1 heaping tablespoonful of dough for each cookie into 1¾ inch diameter balls. Arrange the cookies on the prepared baking sheets, spacing them 2½ inches apart. Bake the cookies for about 12 minutes until puffed, beginning to brown on top and still very soft to touch.  Cool the cookies on baking sheets for 5 minutes. Using a metal spatula, transfer cookies to rack and cool completely. Serve and enjoy!"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Tomato Soup",
+      "image": "/soup.jpg",
+      "summary": "If you're looking for comfort food, look no further. This creamy and delicious Instant Pot tomato soup recipe warms the soul from the inside out. Garnish the tomato soup with Parmesan cheese, oregano, and/or basil. Serve with grilled cheese for the ultimate cozy meal and enjoy!",
+      "type": "Soup",
+      "info_pic": "/recsecond.jpg",
+      "preparation": "20 minutes",
+      "cooking": "30 minutes",
+      "services": "6 people",
+      "ingredients": "1 tablespoon olive oil, 4 stalks celery (chopped), 1 cup chopped carrot, 1 small yellow onion (chopped), 2 cloves garlic (chopped), 4 cups vegetable broth, 1 (14.5 ounce) can fire-roasted diced tomatoes, 1 (14.5 ounce) can crushed San Marzano tomatoes, 3 tablespoons tomato paste, 2 teaspoons dried basil, salt and ground black pepper to taste, ¼ cup butter, ¼ cup all-purpose flour, 1 cup milk, ½ cup grated Parmesan cheese, 1 tablespoon raw cane sugar (Optional), 1 teaspoon red pepper flakes (Optional)",
+      "instruction": [
+        "Turn on a multi-functional pressure cooker (such as Instant Pot®) and select Saute function. Add olive oil, celery, carrot, onion, and garlic. Cook for 5 minutes, stirring occasionally. Stir in vegetable broth, diced and crushed tomatoes, tomato paste, basil, salt, and pepper. Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 6 minutes. Allow 10 to 15 minutes for pressure to build. Meanwhile, melt butter in a small saucepan over low heat. Stir in flour until a smooth, thick paste forms, about 3 minutes. Release pressure naturally for 2 minutes according to manufacturer's instructions. Release remaining pressure by opening the valve to vent. Use an immersion blender to carefully puree the hot soup. Select Saute function again; set timer for 3 minutes. Add flour paste, stirring continuously. Add milk, Parmesan cheese, sugar, and red pepper flakes. Season with more salt and pepper if needed. Stir to combine until the timer ends."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Shrimp Taco",
+      "image": "/tacos.jpg",
+      "summary": "Enjoy a great meal even on a busy weeknight with these shrimp tacos. They’re so quick to prepare and seasoned with a flavorful blend of spices and herbs.",
+      "type": "Taco",
+      "info_pic": "/recthird.jpg",
+      "preparation": "20 minutes",
+      "cooking": "10 minutes",
+      "services": "4 people",
+      "ingredients": "1 lb medium shrimp (thawed & peeled), 1 tbsp olive oil, ½ tsp garlic powder, ½ tsp onion powder, ½ tsp paprika,smoked, ½ tsp ground cumin, ½ tsp chili powder, 10 medium flour tortillas.  For Toppings:  sour cream, salsa, iceberg lettuce, tomatoes, cilantro",
+      "instruction": [
+        "Prep shrimp. If frozen, run them under cool water until thawed. Peel them and remove the tails. Meanwhile, prep your toppings. Add the shrimp to a skillet along with the olive oil and spices. Cook over medium-high heat until the shrimp are no longer pink, flipping/stirring them occasionally. Assemble tacos as desired and serve immediately."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Honey Garlic Chicken Wings",
+      "image": "/wings.jpg",
+      "type": "Main",
+      "summary": "These wings are easy to make in the air fryer and will satisfy all your cravings for a tasty and indulgent snack. Whether you're hosting a party or just looking for a delicious appetizer, these wings are sure to impress your guests and have them begging for the recipe!",
+      "info_pic": "/4rec.jpg",
+      "preparation": "15 minutes",
+      "cooking": "20 minutes",
+      "services": "4 People",
+      "ingredients": "1 tablespoon baking powder1 teaspoon salt, 1/2 teaspoon black pepper, 1/2 teaspoon garlic powder, 1/2 teaspoon paprika, 1/4 teaspoon cayenne pepper, 2 pounds chicken wings, 1/2 cup honey, 1/4 cup soy sauce, 2 cloves garlic (minced), 1 tablespoon grated fresh ginger root, 1 tablespoon cornstarch, 1 tablespoon water, 2 tablespoons green onions",
+      "instruction": [
+        "Preheat the air fryer to 400 degrees F (200 degrees C). Mix baking powder, salt, black pepper, garlic powder, paprika, and cayenne pepper together in a small bowl. Pat chicken wings dry with paper towels, then toss them in spice mixture until evenly coated. Arrange wings in a single layer in the air fryer basket. Cook wings in the preheated air fryer until crispy and golden brown, juices are clear, and meat is no longer pink at the bone, 20 to 25 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C). Meanwhile, make the honey garlic sauce. Stir honey, soy sauce, garlic, and ginger together in a small saucepan over medium heat. In a separate small bowl, whisk together cornstarch and water until smooth, then add to the saucepan. Cook until sauce thickens, 1 to 2 minutes. Transfer wings to a large bowl, pour honey garlic sauce over wings, and toss to coat evenly. Garnish with chopped green onions and serve hot."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Blueberry Cocktail",
+      "image": "/fivecoc.jpg",
+      "type": "Juice",
+      "summary": "Drinking blueberry juice is a great way to add more antioxidants to your diet. The darker the berries are, the more antioxidants they have.",
+      "info_pic": "/5rec.jpg",
+      "preparation": "13 minutes",
+      "cooking": "12 minutes",
+      "services": "24 Pieces",
+      "ingredients": "1/2 tbsp lemon juice3/2 tbsp sugar, 2 cups ice, 8 oz blueberries, ½ cup water, 1 tsp rosemary, 16 oz pomegranates",
+      "instruction": [
+        "Extract pomegranate juice: place a piece of cheesecloth over a medium bowl. Add a handful of pomegranate seeds in the middle of the cheesecloth fold it in half. Juice the blueberries: put blueberries and rosemary through a juicer and collect the juice in a pitcher. Add water to the juicer: this helps further process the leftover blueberry flesh inside the machine. Combine the juices: add pomegranate juice to the pitcher. Add sugar to the juice: to balance out the tartness. Add lemon juice to the pitcher: this adds more depth of flavor to the juice. Serve: you can pour the juice into 4 glasses and serve immediately or chill the pitcher before serving."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Brick-Oven Pizza",
+      "image": "/pizza6.jpg",
+      "type": "Fastfood",
+      "summary": "This simple brick-oven pizza recipe has been made famous by several well-known, Brooklyn wood-fire pizzerias. Best accompanied by ice-cold, pilsner-style lager beer.",
+      "info_pic": "/sixrec.jpg",
+      "preparation": "30 minutes",
+      "cooking": "10 minutes",
+      "services": "16 Pieces",
+      "ingredients": "Dough: ¼ cup warm water, 1 teaspoon active dry yeast, 1 cup cold water, 1 teaspoon salt, 3 cups bread flour, 1 tablespoon extra-virgin olive oil.  Toppings: 6 ounces low moisture mozzarella cheese (thinly sliced), ½ teaspoon dried oregano, ¼ teaspoon freshly ground black pepper, ½ cup no salt added canned crushed tomatoes, 2 tablespoons extra-virgin olive oil, 6 leaves fresh basil, torn",
+      "instruction": [
+        "Make the dough: Pour warm water into a large bowl, then sprinkle yeast over the top. Let stand for 5 minutes. Stir in cold water and salt. Stir in flour, 1 cup at a time until incorporated. Knead dough on a floured surface until smooth, about 10 minutes. Divide in half and form into two tight dough balls. Coat with olive oil and refrigerate in a sealed container for at least 16 hours. Be sure to use a big enough container to allow dough to rise. Make the pizzas: Remove dough from the refrigerator one hour prior to using. Preheat the oven, with a pizza stone on the lowest rack, to 550 degrees F (288 degrees C). Lightly dust a pizza peel with flour. Prepare the first pizza: Lightly dust one dough ball with flour and stretch gradually until about 14 inches in diameter, or about the size of the pizza stone. Place on the floured peel. Lay 1/2 of the mozzarella on the crust, then sprinkle 1/4 teaspoon oregano and 1/8 teaspoon pepper over the top. Randomly arrange 1/4 cup crushed tomatoes over the pizza, leaving some empty areas, then drizzle 1 tablespoon olive oil over top. With a quick back and forth jerk, make sure dough will release from the peel easily. Place the tip of the peel at the back of the preheated pizza stone, and remove the peel so that the pizza is left on the stone. Bake in the preheated oven until the crust begins to brown, 4 to 6 minutes. Slide the pizza onto the peel and remove from the oven; then slide off the peel onto a work surface. Sprinkle 1/2 of the basil leaves randomly over the pizza. Cut into wedges and serve. "
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Pasta",
+      "image": "/pasta.jpg",
+      "summary": " Not only do we have amazing markets here in Palm Beach Gardens but our farmers markets are spectacular. I got 4 Cubanelle peppers and grilled 2 with our steak dinner. Looking at the remaining 2, this dish came to me. Enjoy with your favorite pasta, spaghetti squash, or sweet potato noodles.",
+      "type": "Pasta",
+      "info_pic": "/recseven.jpg",
+      "preparation": "10 minutes",
+      "cooking": "50 minutes",
+      "services": "4 Services",
+      "ingredients": "2 tablespoons olive oil Cubanelle peppers (chopped) , 2 cloves garlic (minced) , 1 pound ground veal, ½ pound ground chuck, 1 (28 ounce) can crushed tomatoes, 1 tablespoon Italian seasoning, 2 teaspoons sea salt, 1 teaspoon ground black pepper",
+      "instruction": [
+        "Heat olive oil in a large saucepan over medium heat. Add Cubanelle peppers; cook and stir until softened, about 5 minutes. Stir in garlic; cook until fragrant, about 30 seconds. ",
+        "Stir veal and chuck into the saucepan; cook, breaking up gently with a wooden spoon, until browned, about 10 minutes. Add crushed tomatoes, Italian seasoning, salt, and pepper. Bring sauce to a boil; reduce heat to low and simmer, covered, until flavors combine, about 30 minutes. "
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Bedouin Meat Rice",
+      "image": "/rice.jpg",
+      "type": "Main",
+      "summary": "That day, when I made her style, B said, “Thaatha, give chai with it, anyway it will be dry.” I just looked at him and said, “This time, it isn’t”. He sat quietly eating it and remarked, “Hmm… it really isn’t!” 😀 So finally I stuck gold with her recipe. Will tweak it as per my family’s liking and post it sometime in the future, InShaAllah…",
+      "info_pic": "/8rec.jpg",
+      "preparation": "30 minutes",
+      "cooking": "45 minutes",
+      "services": "6 Services",
+      "ingredients": "500 gm beef/ mutton/ lamb cubes refer notes 1 tbsp ghee, 2 large loomi dried lime, 4 cinnamon sticks, 4 cloves, 6 green cardamoms, 2 cups water, Salt to taste, 3 cups basmati rice soaked for 30 minutes and drained, 4 green chillies chopped.  FOR GARNISH: 1 tbsp ghee, 4 tbsp pine nuts, 4 tbsp raisins, 1/2 bunch coriander leaves chopped",
+      "instruction": [
+        "Wash the meat well and allow to drain. ",
+        "In a pressure cooker, heat ghee. Give a cut to the loomi and add to the ghee. ",
+        "Bruise the cardamoms and add along with the remaining whole spices. Briefly fry them for a couple of minutes. ",
+        "Add the meat and salt. Cook stirring till the meat is slightly browned and there is no moisture. ",
+        "Add the water and close the lid of the cooker. Cook for 6-8 whistles till the meat is done. Switch off and allow the pressure to go completely. ",
+        "Open the cooker. Drain the meat and spices and reserve the stock. ",
+        "Measure the stock and add enough HOT water to make it a total of 5 cups. ",
+        "Pour the liquid into a big saucepan and bring it to boil. Add the cooked meat, drained rice and green chillies and bring it to a rolling boil. ",
+        "Keep on low flame and cook on closed lid til the water is drained.",
+        "Cover the top with aluminium foil and cook on steam for a further 10 minutes on low flame. Switch off and allow it to rest for another 10 minutes. ",
+        "Meanwhile, heat ghee for the garnish and fry the pine nuts. Add the raisins and toss till puffed. Switch off and drizzle over the rice, Sprinkle in the coriander leaves and immediately close the lid to keep the flavors intact. ",
+        "Toss the rice well and serve hot with daqoos or salata hara."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Cheeseburger",
+      "image": "/burger.jpg",
+      "summary": "Super easy, just go down to your local farmers market and pick up some fresh ingredients from local purveyors to make an amazingly light but meaty late-afternoon grilled burger. Heirloom tomatoes, arugula, red onions, local cheese, and grass-fed beef make this 'Farmers Market Burger' a sure thing.",
+      "type": "Fastfood",
+      "info_pic": "/recnine.jpg",
+      "preparation": "35 minutes",
+      "cooking": "8 minutes",
+      "services": "6 Burgers",
+      "ingredients": "Seasoning Mixture: ⅔ cup sea salt, 1 ounce dried porcini mushrooms, 2 teaspoons dried thyme, 2 teaspoons garlic powder, 1 teaspoon freshly ground black pepper, 1 teaspoon red pepper flakes. Aioli: 2 egg yolks, ½ lemon, juiced, 1 teaspoon finely chopped garlic, 1 teaspoon finely chopped fresh dill, ¾ cup canola oil, ¼ cup olive oil. Pickled Red Onions: 1 pound red onions, sliced into half moons, ½ cup red wine vinegar, 2 teaspoons white sugar, salt and ground black pepper to taste.  Burgers: 6 brioche buns (halved), 2 pounds ground beef, 9 ounces crumbled goat cheese (chevre), 12 slices heirloom tomatoes, 3 cups arugula",
+      "instruction": [
+        "Combine sea salt, porcini mushrooms, thyme, garlic powder, 1 teaspoon black pepper, and red pepper flakes in a food processor; blend until thoroughly mixed. Pour seasoning mixture into a bowl. ",
+        "Combine egg yolks, lemon juice, garlic, and dill in the food processor; blend, pouring in canola oil and olive oil in a steady stream until aioli is thick and smooth. ",
+        "Combine sliced onions, red wine vinegar, sugar, salt, and pepper in an airtight container. Let marinate, at least 15 minutes. ",
+        "Preheat an outdoor grill for medium heat and lightly oil the grate. ",
+        "Spread buns on grill and toast until golden,30 seconds to 1 minute. Transfer to a serving platter. Spread some aioli over each half. ",
+        "Shape ground beef into 6 large patties. Sprinkle seasoning mixture generously over both sides. ",
+        "Increase grill heat to high. Grill patties until browned and an instant-read thermometer inserted into the center reads 160 degrees F (71 degrees C), about 4 minutes per side.",
+        "Place 1 cooked patty on the bottom of each toasted bun. Top each with 3 tablespoons goat cheese, 2 tomato slices,1 heaping tablespoon pickled red onions, and 1/2 cup arugula. Cover with top half of the bun."
+      ]
+    }
+  ],
+  "team": [
+    {
+      "name": "Giovani Bacardo",
+      "profession": "Farmer",
+      "image": "/giovani.jpg"
+    },
+    {
+      "name": "Marianne Loreno",
+      "profession": "Designer",
+      "image": "/marianne.jpg"
+    },
+    {
+      "name": "Riga Pelore",
+      "profession": "Financiar",
+      "image": "/riga.jpg"
+    },
+    {
+      "name": "Keria Knightley",
+      "profession": "Farmer",
+      "image": "/keira.jpg"
+    },
+    {
+      "name": "Scott Lawrence",
+      "profession": "Designer",
+      "image": "/scott.jpg"
+    },
+    {
+      "name": "Karen Allen",
+      "profession": "Farmer",
+      "image": "/karen.jpg"
+    }
+  ]
+}
